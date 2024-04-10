@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.dependency 'WechatOpenSDK-XCFramework'
   s.dependency 'SVGKit'
   s.dependency 'QMUIKit'
-  s.dependency "lottie-ios", "3.3.0"
+  s.dependency "lottie-ios", "~> 3.3.0"
   s.dependency "IQKeyboardManagerSwift", "6.3.0"
   s.dependency "TangramKit"
   s.dependency "UPPay"
